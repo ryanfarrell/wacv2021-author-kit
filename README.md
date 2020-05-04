@@ -11,7 +11,9 @@ The overleaf version is identical to the version found in this github repository
 
 
 
-The typical `egpaper_for_review.tex` and `egpaper_final.tex` files have been merged.  There are important instructions at the top of the document describing (i) how to use `\wacvfinalcopy` to toggle between the review and final (camera-ready) formats and (ii) how to set your Paper ID (assigned upon creation of your paper submission in CMT) for the review version and (iii) how to set the page number for the camera-ready version.
+The typical `egpaper_for_review.tex` and `egpaper_final.tex` files have been merged.  There are important instructions at the top of the combined `egpaper.tex` document describing (i) how to use `\wacvfinalcopy` to toggle between the review and final (camera-ready) formats and (ii) how to set your Paper ID (which is assigned upon creation of your paper submission in CMT) for the review version and (iii) how to set the page number for the camera-ready version.
+
+
 ### Other Latex Build Tools
 If you will not be using overleaf, here are some potentially helpful instructions.
 
